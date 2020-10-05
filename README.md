@@ -6,9 +6,14 @@ Developer communities have been at my heart since day one of being a developer. 
 
 Active on twitter as [@odinga_1](https://twitter.com/odinga_1)
 
-## stats
+## Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Odinga96&count_private=true&show_icons=true&&theme=radical)
 
-## Open source projects
+## Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Odinga96&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## WakaTime
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=odinga)](https://github.com/anuraghazra/github-readme-stats)
+
+## Open source projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=odinga96&repo=Algo_Ds_Notes)](https://github.com/anuraghazra/github-readme-stats)
